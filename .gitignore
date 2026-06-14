@@ -1,0 +1,11 @@
+.DS_Store
+FlashCardApp.zip
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.local
