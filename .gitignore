@@ -1,5 +1,6 @@
 .DS_Store
 FlashCardApp.zip
+FlashCardApp/
 node_modules/
 dist/
 test-results/
