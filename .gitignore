@@ -10,3 +10,4 @@ playwright-report/
 *.db-wal
 .env
 .env.local
+.superpowers/

@@ -1,3 +1,4 @@
 npx lint-staged
 npm test -w server
 npm test -w client
+npx playwright test
